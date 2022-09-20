@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Roboto+Mono&family=Roboto+Slab&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 2rem;
+    font-family: 'Amiri Quran', serif;
+    letter-spacing: .5rem;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid white;
+}
+
+header > h1 {
+    padding-bottom: 1rem;
+    font-size: 3rem;
+}
+
+main {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    display: grid;
+    place-content: center;
+}
+
+footer {
+    border-top: 2px solid white;
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+#home {
+    text-align: center;
+    width: 340px;
+    height: 90px;
+    background: rgb(0, 194, 219);
+    border-radius: 50px;
+    float: right;
+}
+
+div#home:hover {
+    cursor: grab;
+}
+
+#github {
+    margin-top: 3rem;
+}
+
+#back {
+    width: 340px;
+    height: 90px;
+    background: red;
+    border-radius: 50px;
+    text-align: center;
+    cursor: grab;
+}
+
+#navigation {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+navigation > div {
+    display: inline-block;
+}
