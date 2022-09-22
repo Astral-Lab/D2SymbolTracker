@@ -26,11 +26,11 @@ const initApp = () => {
 
     let selectedSymbols = {};   // probably can get rid of this object
 
-    const RUNES = document.querySelectorAll('.symbol');             // Array which stores the nine runes (buttons)
+    const RUNES = document.querySelectorAll('.grid-item');             // Array which stores the nine runes (buttons)
 
     RUNES.forEach(rune => {                                         // Ensure rune (button) functions correctly when clicked
 
-        rune.addEventListener('click', (event) => {
+        rune.addEventListener('click', () => {
 
             if(clickCount[`${rune.id}`]) {                          // Selected symbol has a border appear around it
 
@@ -42,7 +42,7 @@ const initApp = () => {
 
             } else if(Object.keys(selectedSymbols).length < 3) {    // if three symbols have not yet been selected continue as normal
             
-                rune.style.backgroundColor = "rgb(0, 255, 34)";
+                rune.style.backgroundColor = "hsl(115, 98%, 55%)";
 
                 clickCount[`${rune.id}`] = true;
 
@@ -50,17 +50,17 @@ const initApp = () => {
             } 
 
             if(Object.keys(selectedSymbols).length === SYMBOL_LIMIT) {
-                NEXT_BUTTON.style.backgroundColor = "hsl(120, 87%, 40%)";
+                NEXT_BUTTON.style.backgroundColor = "#08654e";
                 NEXT_BUTTON.style.color = "white";
             } else {
                 NEXT_BUTTON.style.color = "hsla(0, 0%, 100%, 0.521)";
-                NEXT_BUTTON.style.backgroundColor = "hsla(120, 87%, 40%, 0.5)";
+                NEXT_BUTTON.style.backgroundColor = "hsla(165, 85%, 21%, 0.507)";
             }
         });
        
     });
 
-    const NEXT_BUTTON = document.querySelector('#next');
+    const NEXT_BUTTON = document.querySelector('.next-button');
 
     NEXT_BUTTON.addEventListener('click', () => {
 

@@ -9,68 +9,131 @@
 body {
     background-color: black;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem; /** media queries for size*/
     font-family: 'Amiri Quran', serif;
-    letter-spacing: .5rem;
+    letter-spacing: .25rem;
 }
 
 header {
     text-align: center;
-    border-bottom: 2px solid white;
+    border-bottom: 1px solid white;
 }
 
-header > h1 {
+h1 {
     padding-bottom: 1rem;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 main {
-    margin-top: 5rem;
-    margin-bottom: 5rem;
-    display: grid;
-    place-content: center;
+    text-align: center;
 }
 
-footer {
-    border-top: 2px solid white;
-    text-align: center;
+figure {
+    margin: 3rem 0 3rem 0;
+}
+
+iframe {
+    width: 90vw;
+    height: 50vw;
+    border: none;
 }
 
 figcaption {
-    text-align: center;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    padding: 1rem;
 }
 
-#home {
-    text-align: center;
-    width: 340px;
-    height: 90px;
-    background: rgb(0, 194, 219);
-    border-radius: 50px;
-    float: right;
+.navigation {
+    display: grid;
+    place-content: center;
+    grid-template-areas: 
+        "back home";
+    margin-bottom: 5rem;
+    gap: 1.5rem;
 }
 
-div#home:hover {
+.home-button {
+    display: grid;
+    grid-area: home;
+    place-content: center;
+    border-radius: 50vw;
+    background-color: #535353;
+    color: white;
+    font-weight: bold;
     cursor: grab;
+    width: 40vw;
+    height: 15vw;
 }
 
-#github {
-    margin-top: 3rem;
-}
-
-#back {
-    width: 340px;
-    height: 90px;
-    background: red;
-    border-radius: 50px;
-    text-align: center;
+.back-button {
+    display: grid;
+    grid-area: back;
+    place-content: center;
+    border-radius: 50vw;
+    background-color: #65081f;
+    color: white;
+    font-weight: bold;
     cursor: grab;
+    width: 40vw;
+    height: 15vw;
 }
 
-#navigation {
-    text-align: center;
-    margin-top: 5rem;
+footer {
+    display: grid;
+    place-content: center;
+    border-top: 1px solid white;
 }
 
-navigation > div {
-    display: inline-block;
+.socials {
+    margin-top: 2rem;
+}
+
+@media screen and (min-width: 320px) {
+    body {
+        letter-spacing: 0.5rem;
+    }
+}
+
+@media screen and (min-width: 425px) {
+    h1 {
+        font-size: 2rem;
+    }
+    figcaption {
+        font-size: 1.25rem;
+    }
+    .back-button, .home-button {
+        width: 175px;
+        height: 56px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    h1 {
+        font-size: 3rem;
+    }
+    figcaption {
+        font-size: 1.5rem;
+        padding: 3rem;
+       
+    }
+    .back-button, .home-button {
+        width: 250px;
+        height: 80px;
+        margin: 0 2rem 0 2rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    iframe {
+        width: 750px;
+        height: 500px
+    }
+    figcaption {
+        font-size: 2rem;
+        padding: 5rem;
+    }
+    .back-button, .home-button {
+        margin: 0 3rem 0 3rem;
+    }
 }

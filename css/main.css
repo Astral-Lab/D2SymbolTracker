@@ -1,81 +1,123 @@
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Roboto+Mono&family=Roboto+Slab&display=swap');
 
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 body {
     background-color: black;
     color: white;
-    font-size: 2rem;
+    font-size: 1rem; /** media queries for size? */
     font-family: 'Amiri Quran', serif;
     letter-spacing: .5rem;
+    line-height: 3.5rem;
 }
 
 header {
     text-align: center;
-    border-bottom: 2px solid white;
+    border-bottom: 1px solid white;
 }
 
-header > h1 {
-    padding-bottom: 1rem;
+h1 {
+    margin: 1rem 0 2rem 0;
 }
 
-main {
-    margin: 0 auto; /* what is 0 auto short hand for? */
+.grid-container {
+    display: grid;
+    grid-template-areas: 
+        "grid-item grid-item grid-item";
+    grid-template-rows: repeat(3, 20vw);
+    grid-template-columns: repeat(3, 20vw);
+    gap: 1rem;
+    place-content: center;
     margin-top: 5rem;
     margin-bottom: 5rem;
-    width: 70vw;
+}
+
+.grid-item {
+    border: 1px solid hsl(115, 98%, 55%);
+    background-color: black;
+    padding: 0.30rem;
+}
+
+.grid-item > img {   /** nicer way to select the img specifically */
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    cursor: grab;
+}
+
+.navigation {
     display: grid;
-    grid-template-areas:
-        "rune1 rune2 rune3"
-        "rune4 rune5 rune6"
-        "rune7 rune8 rune9";
-    grid-template-rows: repeat(3, minmax(0, 150px));
-    grid-template-columns: repeat(3, minmax(0, 150px));
-    gap: 2rem;
     place-content: center;
 }
 
-.symbol {
-    border: 1px solid hsl(84, 100%, 59%);
-    aspect-ratio: 1/1;
+.next-button {
     display: grid;
     place-content: center;
+    margin-bottom: 5rem;
+    width: 50vw;
+    height: 18vw;
+    border-radius: 50vw;
+    font-weight: bold;
+    color: hsla(0, 0%, 100%, 0.521);
+    background: hsla(165, 85%, 21%, 0.507);
+    cursor: grab;
 }
 
 footer {
-    border-top: 2px solid white;
-    text-align: center;
-    font-size: 2rem;
+    display: grid;
+    place-content: center;
+    border-top: 1px solid white;
 }
 
-button {
-    background-color: black;
-    color: white;
+.socials {
+    margin-top: 2rem;
 }
 
-#next {
-    width: 340px;
-    height: 90px;
-    border-radius: 50px;
-    margin: 0 auto 5rem auto;
-    text-align: center;
-    font-weight: bold;
-    color: hsla(0, 0%, 100%, 0.521);
-    background: hsla(120, 87%, 40%, 0.5);
+@media  screen and (min-width: 425px) {
+    body {
+        font-size: 1.5rem;
+    }
+    h1 {
+        margin: 2rem 0 3rem 0;
+        padding: 0.5rem;
+        line-height: 5rem;
+    }
+    .grid-container {
+        gap: 1.25rem;
+    }
+    .grid-item {
+        padding: 0.75em;
+    }
+    .next-button {
+        width: 250px;
+        height: 80px;
+    }
 }
 
-div#next:hover {
-    cursor: grab;
+@media screen and (min-width: 768px) {
+    body {
+        font-size: 2rem;
+    }
+    .grid-container {
+        grid-template-rows: repeat(3, minmax(0, 150px));
+        grid-template-columns: repeat(3, minmax(0, 150px));
+        gap: 2rem;
+    }
+    .grid-item {
+        padding: 0.75rem;
+    }
+    .next-button {
+        width: 320px;
+        height: 100px;
+    }
 }
 
-button:hover {
-    cursor: grab;
-}
-
-#github {
-    margin-top: 3rem;
+@media screen and (min-width: 1024px) {
+    body {
+        font-size: 2rem;
+    }
 }
