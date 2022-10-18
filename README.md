@@ -1,4 +1,4 @@
-# D2SymbolTracker
+# Symbol Tracker
 
 Project Summary:
 
