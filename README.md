@@ -23,7 +23,7 @@
 > symbol locations off the top of your head, or you look at a video / picture guide. If you're using a video guide it can be frustrating to find the part of the video > you need or maybe you need to rewatch part of the video, so you try and rewind it but end up rewinding too far or too soon, which is frustrating. And if you're using
 > a picture guide, well you have to scan the picture for the symbol you need, read the description, but maybe its not detailed enough, so you end up finding a video 
 > guide anways, you see where I am going with this. Not to mention, if you are taking a screenshot of the symbols you need, well that takes up storage on you device,
-> and if you raid a lot, that's a lot bytes being eaten up. This is why I built Symbol Tracker. It provides convience. It gives all Destiny players an incredibly easy  > way to unlock the secret chest.
+> and if you raid a lot, that's a lot bytes being eaten up. This is why I built Symbol Tracker. It provides convience. It gives all Destiny players an incredibly easy way to unlock the secret chest.
 
 ### You said you released Symbol Tracker back in September, why did I not hear about it then?
 > Great question! And yes, I did release it back in September. On the initial September release, Symbol Tracker only had support for the King's Fall raid and looked
