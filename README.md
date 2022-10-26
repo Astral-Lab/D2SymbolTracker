@@ -28,7 +28,7 @@ Symbol Tracker provides Destiny 2 players with an easy to use website, to unlock
 
 ### I hear you, but the Lightfall raid is not out yet, why show it on the website?
 > This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came from me wanting to use transition animation (one that plays between page loads), 
-
+ 
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
  > As you can imagine, developing this website took a great deal of time.
 
@@ -37,4 +37,4 @@ Symbol Tracker provides Destiny 2 players with an easy to use website, to unlock
  > On a more techinical note, I would like to explore adding a backend to this site, to reduce the number of HTML files being used.
  > For each raid Symbol Tracker requires 11 HTML files, so when Lightfall releases.
 
- ### 
+ ### How can I contact you?
