@@ -40,4 +40,5 @@
  > For each raid, Symbol Tracker requires 11 HTML files, one to select the symbols, nine for the symbol locations, and one for the chest unlock page. 
  > Thinking long term and assuming Bungie will implement a secret Deep Sight chest for each new raid, that would mean 22 new HTML files per year, if a new raid releases every 6 months.
 
- ### How can I contact you?
+### What are you working on next?
+> ...
