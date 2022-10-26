@@ -1,45 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>KF Symbols</title>
-    <meta name="Author" content="Josh Brey">
-    <meta name="Description" content="Webpage describing the location of the second secret rune in the King's Fall raid">
-    <meta charset="UTF-8">
+    <title>Symbol Tracker</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="icon" type="image/x-icon" href="images/saturn.png">
-    <script src="js/main.js"></script>
+    <meta name="author" content="Josh Brey">
+    <meta 
+        name="description" 
+        content="Symbol Tracker provides Destiny 2 players
+        with an easy to follow guide to unlock the secret deep sight chest in the
+        Vow of The Disciple and King's Fall raids.">
+    <!-- Links -->
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" href="images/favicon/favi1.png" type="image/x-icon">
+    <!-- Open Graph Protocol-->
+    <meta property="og:site_name" content="symboltracker.net">
+    <meta property="og:title" content="Symbol Tracker">
+    <meta property="og:description" content="An easy to follow guide to unlock the secret deep sight chest in the Vow of The Disciple and King's Fall raids.">
+    <meta property="og:url" content="https://astral-lab.github.io/v2alpha/">
+    <meta property="og:type" content="website">
+    <meta property="og:image:url" content="https://astral-lab.github.io/v2alpha/images/OGP/test1.jpg">
+    <meta property="og:image:secure_url" content="https://astral-lab.github.io/v2alpha/images/OGP/test2.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <!-- Twitter Support (TBA)-->
 </head>
 <body>
     <header>
-        <h1>KING'S FALL SYMBOL TRACKER</h1>
+        <h1><a href="https://symboltracker.net/">Symbol Tracker</a></h1>
+        <div id="pulse-container"><span></span></div>
     </header>
     <main>
-        <section class="grid-container">
-            <!--Row 1-->
-            <button id="rune1" class="grid-item"><img class="contain" src="images/rune1.png" alt=""></button>
-            <button id="rune2" class="grid-item"><img class="contain" src="images/rune2.png" alt=""></button>
-            <button id="rune3" class="grid-item"><img class="contain" src="images/rune3.png" alt=""></button>
-
-            <!--Row 2-->
-            <button id="rune4" class="grid-item"><img class="contain" src="images/rune4.png" alt=""></button>
-            <button id="rune5" class="grid-item"><img class="contain" src="images/rune5.png" alt=""></button>
-            <button id="rune6" class="grid-item"><img class="contain" src="images/rune6.png" alt=""></button>
-
-            <!--Row 3-->
-            <button id="rune7" class="grid-item"><img class="contain" src="images/rune7.png" alt=""></button>
-            <button id="rune8" class="grid-item"><img class="contain" src="images/rune8.png" alt=""></button>
-            <button id="rune9" class="grid-item"><img class="contain" src="images/rune9.png" alt=""></button>
-        </section>
-        <section class="navigation">
-            <div class="next-button">Next</div>
-        </section>
+        <figure>
+            <img src="images/index/Vow.jpg" alt="">
+            <figcaption>
+                <a href="html/vow_select.html">Vow of the Disciple</a>
+            </figcaption>
+        </figure>
+        <figure>
+            <img src="images/index/KF.jpg" alt="">
+            <figcaption>
+                <a href="html/kf_select.html">King's Fall</a>
+            </figcaption>
+        </figure>
+        <figure>
+            <img src="images/index/Redacted.jpg" alt="">
+            <figcaption>
+                <a href="html/redacted_select.html">[REDACTED]</a>
+            </figcaption>
+        </figure>
     </main>
     <footer>
-        <section class="socials">
-            <div class="github"><a href="https://github.com/Astral-Lab"><img src="images/GitHub-Mark-Light-64px.png" alt=""></a></div> <!--Change to 32px logo? 64px for media query?-->
-        </section>
+        <div id="socials">
+            <a href="https://github.com/Astral-Lab/Symbol_Tracker"><img src="images/socials/githubsquare_1.png" alt=""></a>
+            <a href=""><img src="images/socials/kofi2.png" alt=""></a>
+        </div>
     </footer>
 </body>
 </html>
