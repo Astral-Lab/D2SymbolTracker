@@ -2,7 +2,7 @@
 
 Project Summary:
 
-D2SymbolTracker is an easy to use Website to help Destiny 2 players unlock the Deepsight chest in the King's Fall raid.
+Symbol Tracker provides Destiny 2 players with an easy to use website to unlock the secret Deep Sight chest in the Vow of The Disciple, King's Fall, and any future raids.
 
 ### Initial Release 1.0.0 (Insert Date Here)
 
