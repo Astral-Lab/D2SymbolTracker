@@ -35,3 +35,5 @@ Symbol Tracker provides Destiny 2 players with an easy to use website to unlock 
  ### Any future updates planned for Symbol Tracker?
  > Yes! Updates will come in the form of adding support for the new raid symbols, such as the Lightfall raid.
  > On a more techinical note, I would like to explore adding a backend to this site, to reduce the number of HTML files being used. As 
+
+ ### 
