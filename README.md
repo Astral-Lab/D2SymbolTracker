@@ -10,7 +10,7 @@
 
 ### Update 2.0.0 (Insert Date Here)
 
-### FAQs
+## FAQs
 
 ### Why did I make Symbol Tracker?
 > In September 2022 I started learning Web Development and wanted to put what I had learned to the test. 
