@@ -15,10 +15,7 @@
 ### Why did I make Symbol Tracker?
 > In September 2022 I started learning Web Development and wanted to put what I had learned to the test. 
 > One of the first project ideas that came to mind was, a website to guide players through unlocking the 
-> secret deep sight chest in the King's Fall raid, so this is what I went with.
-
-## I already know all the symbol locations?
-> Good for you!
+> secret deep sight chest in the King's Fall raid. For a more design oriented answer see below.
 
 ### Can't I just watch a YouTube video or look at a picture to find the symbols?
 > Go ahead, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the deep sight chest.
@@ -29,8 +26,12 @@
 > and if you raid a lot, that's a lot bytes being eaten up. This is why I built Symbol Tracker. It provides convience. It gives all Destiny players an incredibly easy  > way to unlock the secret chest.
 
 ### You said you released Symbol Tracker back in September, why did I not hear about it then?
-> Great question! And yes, I did release it back in September. On the initial September release, Symbol Tracker only had support for the King's Fall raid, so the website
-> looked much different then, if you are interested in having a look here's a link to how it looked: <insert old link here>. Also, I had only been learning WebDevelopment > for about a month when I released it, so as you can imagine the UI did not look great. 
+> Great question! And yes, I did release it back in September. On the initial September release, Symbol Tracker only had support for the King's Fall raid and looked
+> considerably different. If you are interested in having a look here's a link: <insert link here>. 
+> I would also like to add I never origianlly planned for Symbol Tracker to be available to the public, as it was just meant to be a project for me to apply what I
+> had learned, the turning point came a few weeks after I had finished the first iteration of Symbol Tracker, as I felt I could significantly improve the quality of 
+> the site, in terms of the UI and how I structured the code. Fast forward till now, I can say I am happy with what I have been able to
+> achieve in this short amount of time.
 
 ### On Symbol Tracker there's a section called '[REDACTED]', what is this?
 > Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaing a secret Deep Sight chest.
