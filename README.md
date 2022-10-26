@@ -12,6 +12,10 @@ Symbol Tracker provides Destiny 2 players with an easy to use website to unlock 
 
 ### Why did I make Symbol Tracker?
 > In September 2022 I started learning Web Development and wanted to put what I had learned to the test. 
+> I did not feel like there was good guide and popele were still confused on how to unlock the chest.
+
+### Can't I just watch a YouTube video or look at a picture to find the symbols?
+>
 
 ### You said you released Symbol Tracker back in September, why did I not hear about it then?
 > Great question! And yes, I did release it back in September. On the initial September release, Symbol Tracker only had support for the King's Fall raid, so the website
@@ -27,3 +31,6 @@ Symbol Tracker provides Destiny 2 players with an easy to use website to unlock 
 
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
  > As you can imagine, developing this website took a great deal of time.
+
+ ### Any future updates planned for Symbol Tracker?
+ > Yes! Considering 
