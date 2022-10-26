@@ -13,6 +13,7 @@
 > * Significant UI changes.
 > * Complete rework of code structure.
 > * Added support for Vow of The Disciple raid.
+> * Open Graph Protocol support added.
 
 ## FAQs
 
