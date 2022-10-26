@@ -24,12 +24,12 @@
 > looked much different then, if you are interested in having a look here's a link to how it looked: <insert old link here>. Also, I had only been learning WebDevelopment > for about a month when I released it, so as you can imagine the UI did not look great. 
 
 ### On Symbol Tracker there's a section called '[REDACTED]', what is this?
-> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaing a secret Deep Sight chest. 
+> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaing a secret Deep Sight chest.
 > It seemed logical to implment a section for the Lightfall raid, as it is incredbily likely it will have something similar. Escpecially now as crafting is becoming a 
 > more integral part of Destiny.
 
 ### I hear you, but the Lightfall raid is not out yet, why show it on the website?
-> This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came from me wanting to use transition animation (one that plays between page loads), 
+> This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came from me wanting to use an awesome transition animation I created. Ultimately I decided against using it though, due to it potentially being annoying for the user. 
  
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
  > As you can imagine, developing this website took a great deal of time and I will continue to update this site for as long as Destiny 2 recieves new raids, so I 
