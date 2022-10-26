@@ -34,12 +34,14 @@
 > achieve in this short amount of time and look forward to further improving the site. 
 
 ### On Symbol Tracker there's a section called '[REDACTED]', what is this?
-> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaing a secret Deep Sight chest.
-> It seemed logical to implment a section for the Lightfall raid, as it is incredbily likely it will have something similar. Escpecially now as crafting is becoming a 
+> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaining a secret deep sight chest,
+> it seemed logical to implment a section for the Lightfall raid, as it is incredibly likely it will have something similar. Escpecially now as crafting is becoming a 
 > more integral part of Destiny.
 
 ### I hear you, but the Lightfall raid is not out yet, why show it on the website?
-> This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came from me wanting to use an awesome transition animation I created. Ultimately I decided against using it though, due to it potentially being annoying for the user. 
+> This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came 
+> from me wanting to use an awesome transition animation I created. Ultimately I decided against using it for this purpose and instead put it as the background
+> animation for the Lightfall section, where you will also find a live countdown until the Lightfall release date.
  
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
  > As you can imagine, developing this website took a great deal of time and I will continue to update this site for as long as Destiny 2 recieves new raids, so I 
@@ -49,7 +51,9 @@
  > Yes! Updates will come in the form of adding support for new raids, UI updates (improved desktop layout), and overall bug fixes.
  > On a more techinical note, I would like to explore adding a backend to this site to reduce the number of HTML files being used.
  > For each raid, Symbol Tracker requires 11 HTML files, 1 to select the symbols, 9 for the symbol locations, and 1 for the chest unlock page. 
- > Thinking long term and assuming Bungie will implement a secret Deep Sight chest for each new raid, that would mean 22 new HTML files per year, if a new raid releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes are implemented.
+ > Thinking long term and assuming Bungie will implement a secret deep sight chest for each new raid, that would mean 22 new HTML files per year, if a new raid    
+ > releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes are  
+ > implemented.
 
 ### What are you working on next?
 > Stay tuned...
