@@ -1,5 +1,7 @@
 # [Symbol Tracker](https://symboltracker.net)
 
+## Symbol Tracker is still in development. Expect full release by 28/10/2022
+
 ## Project Summary:
 
 >Symbol Tracker provides Destiny 2 players with an easy to use website, to unlock the secret Deep Sight chest in the Vow of The Disciple, King's Fall, and any future >raids.
