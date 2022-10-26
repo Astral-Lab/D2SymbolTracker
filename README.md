@@ -32,8 +32,8 @@
 > This definately took some consideration, as I only wanted to show relevant information. The idea to keep the Lightfall section for the live release actually came from me wanting to use transition animation (one that plays between page loads), 
  
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
- > As you can imagine, developing this website took a great deal of time and I will continue to update this site for as long as Destiny 2 recieves new raids. 
- > It would mean a lot to me if you're able to help support the ongonig growth of Symbol Tracker and my future projects.
+ > As you can imagine, developing this website took a great deal of time and I will continue to update this site for as long as Destiny 2 recieves new raids, so I 
+ > created a Ko-fi account to allow anyone to help support the future updates to Symbol Tracker and future projects.
 
  ### Any future updates planned for Symbol Tracker?
  > Yes! Updates will come in the form of adding support for new raids, UI updates, and overall bug fixes.
