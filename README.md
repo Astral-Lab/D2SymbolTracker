@@ -51,9 +51,9 @@
  > Yes! Updates will come in the form of adding support for new raids, UI updates (improved desktop layout), and overall bug fixes.
  > On a more techinical note, I would like to explore adding a backend to this site to reduce the number of HTML files being used.
  > For each raid, Symbol Tracker requires 11 HTML files, 1 to select the symbols, 9 for the symbol locations, and 1 for the chest unlock page. 
- > Thinking long term and assuming Bungie will implement a secret deep sight chest for each new raid, that would mean 22 new HTML files per year, if a new raid    
- > releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes are  
- > implemented.
+ > Thinking long term and assuming Bungie will implement a secret deep sight chest for each new raid, that would mean 22 new HTML files per year, 
+ > if a new raid releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes 
+ > are implemented.
 
 ### What are you working on next?
 > Stay tuned...
