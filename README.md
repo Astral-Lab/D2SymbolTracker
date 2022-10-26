@@ -8,8 +8,11 @@
 
 ### Initial Release 1.0.0 - 26/09/2022
 
-### Update 2.0.0 (Insert Date Here)
-> * Complete site overhaul
+### Update 2.0.0 - XX/XX/XXXX
+> * Complete site overhaul.
+> * Significant UI changes.
+> * Complete rework of code structure.
+> * Added support for Vow of The Disciple raid.
 
 ## FAQs
 
