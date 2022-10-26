@@ -34,7 +34,8 @@
 
  ### Any future updates planned for Symbol Tracker?
  > Yes! Updates will come in the form of adding support for the new raid symbols, such as the Lightfall raid.
- > On a more techinical note, I would like to explore adding a backend to this site, to reduce the number of HTML files being used.
- > For each raid Symbol Tracker requires 11 HTML files, so when Lightfall releases.
+ > On a more techinical note, I would like to explore adding a backend to this site to reduce the number of HTML files being used.
+ > For each raid Symbol Tracker requires 11 HTML files, one to select the symbols, nine for the symbol locations, and one for the chest unlock page. 
+ > Thinking long term and assuming Bungie will implement a secret Deep Sight chest for each new raid, that would mean 22 new HTML files per year, if a new raid releases every 6 months.
 
  ### How can I contact you?
