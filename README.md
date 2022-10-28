@@ -62,8 +62,5 @@ and if you raid a lot, that's a lot bytes being eaten up. This is why I built Sy
  > if a new raid releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes 
  > are implemented.
 
-### Who am I?
-> ...
-
 ### What are you working on next?
 > Stay tuned...
