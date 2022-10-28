@@ -52,7 +52,7 @@ If you raid a regularly, that's a lot of bytes being eaten up. This is why I bui
  
  ### What's the coffee cup logo at the bottom of Symbol Tracker?
  > As you can imagine, developing this website took a great deal of time and I will continue to update this site for as long as Destiny 2 recieves new raids, so I 
- > created a Buy Me A Coffee (put link) account to allow anyone to help support future updates to Symbol Tracker and my future projects.
+ > created a [Buy Me A Coffee](https://www.buymeacoffee.com/astrallabs) account to allow anyone to help support future updates to Symbol Tracker and my future projects.
 
  ### Any future updates planned for Symbol Tracker?
  > Yes! Updates will come in the form of adding support for new raids, UI updates (improved desktop layout), and overall bug fixes.
