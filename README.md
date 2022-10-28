@@ -20,8 +20,8 @@
 ## FAQs
 
 ### Why did I make Symbol Tracker?
-> In September 2022 I started learning Web Development and wanted to put what I had learned to the test. 
-> One of the first project ideas that came to mind was, a website to guide players through unlocking the 
+> In September 2022 I started learning Web Development, and wanted to put what I had learned to the test. 
+> One of the first project ideas that came to mind, was a website to guide players through unlocking the 
 > secret Deepsight chest in the King's Fall raid. For a more design oriented answer see below.
 
 ### Can't I just watch a YouTube video or look at a picture to find the symbols?
