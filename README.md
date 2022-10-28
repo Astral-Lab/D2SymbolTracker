@@ -4,7 +4,7 @@
 
 ## Project Summary:
 
->Symbol Tracker provides Destiny 2 players with an easy to use website to unlock the secret Deep Sight chest in the Vow of The Disciple, King's Fall, and any future >raids.
+>Symbol Tracker provides Destiny 2 players with an easy to use website to unlock the secret Deep Sight chest in the Vow of The Disciple, King's Fall, and any future raids.
 
 ## Update Log
 
@@ -12,10 +12,10 @@
 
 ### Update 2.0.0 - XX/XX/XXXX
 > * Complete site overhaul.
-> * Significant UI changes.
-> * Complete rework of code structure.
-> * Added support for Vow of The Disciple raid.
-> * Open Graph Protocol support added.
+* Significant UI changes.
+* Complete rework of code structure.
+* Added support for Vow of The Disciple raid.
+* Open Graph Protocol support added.
 
 ## FAQs
 
