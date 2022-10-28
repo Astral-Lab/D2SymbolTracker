@@ -12,7 +12,7 @@
 
 ### Update 2.0.0 - XX/XX/XXXX
 > * Complete site overhaul.
->  * Significant UI changes.
+> * Significant UI changes.
 > * Complete rework of code structure.
 > * Added support for Vow of The Disciple raid.
 > * Open Graph Protocol support added.
