@@ -4,7 +4,7 @@
 
 ## Project Summary:
 
->Symbol Tracker provides Destiny 2 players with an easy to use website to unlock the secret Deep Sight chest in the Vow of The Disciple, King's Fall, and any future raids.
+>Symbol Tracker provides Destiny 2 players with an easy to use website to unlock the secret Deepsight chest in the Vow of The Disciple, King's Fall, and any future raids.
 
 ## Update Log
 
@@ -22,10 +22,10 @@
 ### Why did I make Symbol Tracker?
 > In September 2022 I started learning Web Development and wanted to put what I had learned to the test. 
 > One of the first project ideas that came to mind was, a website to guide players through unlocking the 
-> secret deep sight chest in the King's Fall raid. For a more design oriented answer see below.
+> secret Deepsight chest in the King's Fall raid. For a more design oriented answer see below.
 
 ### Can't I just watch a YouTube video or look at a picture to find the symbols?
-> Go ahead, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the deep sight chest.
+> Go ahead, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the Deepsight chest.
 > What usually ends up happening is, maybe you take a screenshot of the symbols you need or type numbers in chat to remember them. Now, either you know all the 
 > symbol locations off the top of your head, or you look at a video / picture guide. If you're using a video guide it can be frustrating to find the part of the video > you need or maybe you need to rewatch part of the video, so you try and rewind it but end up rewinding too far or too soon, which is frustrating. And if you're using
 > a picture guide, well you have to scan the picture for the symbol you need, read the description, but maybe its not detailed enough, so you end up finding a video 
@@ -41,7 +41,7 @@
 > achieve in this short amount of time and look forward to further improving the site. 
 
 ### On Symbol Tracker there's a section called '[REDACTED]', what is this?
-> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaining a secret deep sight chest,
+> Considering the past two raids (Vow of The Disciple and King's Fall) have both contained an almost identical way of obtaining a secret Deepsight chest,
 > it seemed logical to implment a section for the Lightfall raid, as it is incredibly likely it will have something similar. Escpecially now as crafting is becoming a 
 > more integral part of Destiny.
 
@@ -58,7 +58,7 @@
  > Yes! Updates will come in the form of adding support for new raids, UI updates (improved desktop layout), and overall bug fixes.
  > On a more techinical note, I would like to explore adding a backend to this site to reduce the number of HTML files being used.
  > For each raid, Symbol Tracker requires 11 HTML files, 1 to select the symbols, 9 for the symbol locations, and 1 for the chest unlock page. 
- > Thinking long term and assuming Bungie will implement a secret deep sight chest for each new raid, that would mean 22 new HTML files per year, 
+ > Thinking long term and assuming Bungie will implement a secret Deepsight chest for each new raid, that would mean 22 new HTML files per year, 
  > if a new raid releases every 6 months, so the HTML files will pile up. Do not expect this to come anytime soon, it would be at least 1-2 months until such changes 
  > are implemented.
 
