@@ -25,7 +25,7 @@
 > secret Deepsight chest in the King's Fall raid. For a more design oriented answer see below.
 
 ### Can't I just watch a YouTube video or look at a picture to find the symbols?
-> Go ahead, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the Deepsight chest.
+> You can, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the Deepsight chest.
 What usually ends up happening is, maybe you take a screenshot of the symbols you need or type numbers in chat to remember them. Now, either you know all the 
 symbol locations off the top of your head, or you look at a video / picture guide. If you're using a video guide it can be frustrating to find the part of the video you need or maybe you need to rewatch part of the video, so you try and rewind it but end up rewinding too far or too soon, which is frustrating. And if you're using
 a picture guide, well you have to scan the picture for the symbol you need, read the description, but maybe its not detailed enough, so you end up finding a video 
