@@ -27,7 +27,7 @@
 ### Can't I just watch a YouTube video or look at a picture to find the symbols?
 > You can, but Symbol Tracker provides a much smoother user experience. Why? Let's say you're doing the King's Fall raid and want to unlock the Deepsight chest.
 What usually ends up happening is, maybe you take a screenshot of the symbols you need or type numbers in chat to remember them. Now, either you know all the 
-symbol locations off the top of your head, or you look at a video / picture guide. If you're using a video guide it can be frustrating to find the part of the video you need or maybe you need to rewatch part of the video, so you try and rewind it but end up rewinding too far or too soon, which is frustrating. And if you're using
+symbol locations off the top of your head, or you look at a video / picture guide. If you're using a video guide it can be frustrating to find the part of the video you need, or maybe you need to rewatch part of the video, so you try and rewind it but end up rewinding too far or too soon, which is frustrating. And if you're using
 a picture guide, well you have to scan the picture for the symbol you need, read the description, but maybe its not detailed enough, so you end up finding a video 
 guide anways, you see where I am going with this. Not to mention, if you are taking a screenshot of the symbols you need, well that takes up storage on you device,
 and if you raid a lot, that's a lot bytes being eaten up. This is why I built Symbol Tracker. It provides convience. It gives all Destiny players an incredibly easy way to unlock the secret chest.
