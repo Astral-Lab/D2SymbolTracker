@@ -245,54 +245,77 @@ a span:nth-child(4) {
 }
 
 #nav #back span:nth-child(1) {
+    /* COLOUR */
+    background: linear-gradient(to left, #171618, var(--back-button-colour));
+
     /* ANIMATION */
     animation: back_animate1 var(--nav-animation-time) linear infinite;
     animation-delay: 1s;
 }
 
 #nav #back span:nth-child(2) {
+    /* COLOUR */
+    background: linear-gradient(to top, #171618, var(--back-button-colour));
+
     /* ANIMATION */
     animation: back_animate2 var(--nav-animation-time) linear infinite;
     animation-delay: 2s;
 }
 
 #nav #back span:nth-child(3) {
+    /* COLOUR */
+    background: linear-gradient(to right, #171618, var(--back-button-colour));
+
     /* ANIMATION */
     animation: back_animate3 var(--nav-animation-time) linear infinite;
     animation-delay: 1s;
 }
 
 #nav #back span:nth-child(4) {
+    /* COLOUR */
+    background: linear-gradient(to bottom, #171618, var(--back-button-colour));
+
     /* ANIMATION */
     animation: back_animate4 var(--nav-animation-time) linear infinite;
     animation-delay: 2s;
 }
 
 #nav #next span:nth-child(1), #home span:nth-child(1) {
+    /* COLOUR */
+    background: linear-gradient(to right, #171618, var(--next-button-colour));
+
     /* ANIMATION */
     animation: next_animate1 var(--nav-animation-time) linear infinite;
     animation-delay: 1s;
 }
 
 #nav #next span:nth-child(2), #home span:nth-child(2) {
+    /* COLOUR */
+    background: linear-gradient(to bottom, #171618, var(--next-button-colour));
+
     /* ANIMATION */
     animation: next_animate2 var(--nav-animation-time) linear infinite;
     animation-delay: 2s;
 }
 
 #nav #next span:nth-child(3), #home span:nth-child(3) {
+    /* COLOUR */
+    background: linear-gradient(to left, #171618, var(--next-button-colour));
+
     /* ANIMATION */
     animation: next_animate3 var(--nav-animation-time) linear infinite;
     animation-delay: 1s;
 }
 
 #nav #next span:nth-child(4), #home span:nth-child(4) {
+    /* COLOUR */
+    background: linear-gradient(to top, #171618, var(--next-button-colour));
     /* ANIMATION */
     animation: next_animate4 var(--nav-animation-time) linear infinite;
     animation-delay: 2s;
 }
 
-/* Sets the colours for each navigation button */
+/* Sets the colours for each navigation button
 #back span:nth-child(n) {
     background: linear-gradient(to top, #171618, var(--back-button-colour));
 }
@@ -303,7 +326,7 @@ a span:nth-child(4) {
 
 #home span:nth-child(n) {
     background: linear-gradient(to top, #171618, var(--home-button-colour));
-}
+} */
 
 @keyframes back_animate1 {
     0% {
