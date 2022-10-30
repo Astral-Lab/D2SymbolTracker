@@ -1,6 +1,6 @@
 # [Symbol Tracker](https://symboltracker.net)
 
-## Symbol Tracker is still in development. Expect full release by 30/10/2022
+## Symbol Tracker is still in development. Expect full release by 1/11/22
 
 ## Project Summary:
 
